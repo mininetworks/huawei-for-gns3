@@ -14,4 +14,4 @@ Please don't change the number of adapters. Otherwise, additional steps are requ
  - get the list of _NPF IDs of adapters with the getmac utility in the Command Prompt
  - and edit the C:\Users\mnadmin\Desktop\ubridge\ubridge.ini, so that the IDs there to be correct.
 
-These appliances are based on Windows 7 Professional MSDN installation. You need the license, otherwise the usage is not legal. This one is Volume License version.
+These appliances are based on Windows 7 Professional MSDN installation. You need the license, otherwise the usage is not legal.
