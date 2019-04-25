@@ -1,0 +1,14 @@
+Global
+v1.0
+- Just initial version with unknown bugs
+
+v2.0
+- Fixed save command did nothing
+
+HuaweiPrototypeDevice-x64
+v1.1
+- Update to eNSPV100R003C00SPC100
+
+Huawei NE50000
+v1.1
+- Rebased on HuaweiPrototypeDevice-x64 v1.1 to fix issues with unstable boot
